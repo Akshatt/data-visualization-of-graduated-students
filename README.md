@@ -12,7 +12,7 @@ We wanted to study and analyze the trends related to these factors hoping to fin
 
 We used Tableau and Highcharts to visualize the data that we had collected.   
 The website was hosted using Github Pages.  
-You can see it [here](https://akshatt.github.io/).
+You can see it [here](https://akshatt.github.io/data-visualization-of-graduated-students/).
  
 ## Analysis
 
